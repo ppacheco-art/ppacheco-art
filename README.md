@@ -2,7 +2,6 @@
 
 :computer: **Ingenieria en sistemas**.  
 :pencil: **Estudiante 5to semestre**  
-:hobbies: **Deportes,leer,viajar**
 
 ### Vias de Contacto  
 
